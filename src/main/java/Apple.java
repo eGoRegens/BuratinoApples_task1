@@ -6,6 +6,6 @@ public class Apple {
 
         System.out.println("У Буратино изначально было " + applesBuranino + " яблок.");
         System.out.println("Карабас Барабас отобрал у него " + applesTookKarabas + " яблок.");
-        System.out.println(residualApplesBuratino + " яблок(а) осталось у Буратино.");
+        System.out.println(residualApplesBuratino + " яблок осталось у Буратино.");
     }
 }
